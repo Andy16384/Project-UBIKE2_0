@@ -1,0 +1,2789 @@
+# depslib dependency file v1.0
+1576516702 source:c:\users\user\documents\final project 2\untitled1.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<graphics.h>
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\close_code.h
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1560153609 source:c:\users\user\desktop\sdl_bgi-2.3.0\test\sdlbgidemo.c
+	<graphics.h>
+
+1564131450 c:\users\user\documents\final project 2\sdl_bgi-2.3.0\src\graphics.h
+	<SDL2/SDL_bgi.h>
+
+1564474469 c:\users\user\documents\final project 2\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_bgi.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_keycode.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1576421048 source:c:\users\user\downloads\week3 範例程式\l23.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<cstdio>
+	<string>
+	<sstream>
+
+1561870368 c:\users\user\documents\final project 2\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322281 c:\users\user\documents\final project 2\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1576564944 source:c:\users\user\downloads\week3 範例程式\l24.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<cstdio>
+	<string>
+	<sstream>
+
+1576421547 source:c:\users\user\downloads\week3 範例程式\l26.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1576567313 source:c:\users\user\downloads\week3 範例程式\l27.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1576574324 source:c:\users\user\documents\final project 2\test.cpp
+	"SDL2/SDL.h"
+
+1576575438 source:c:\users\user\documents\l26.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1576595153 source:c:\users\user\documents\programs before midterm\code for practice.cpp
+	"SDL2/SDL.h"
+
+1576595275 source:c:\users\user\documents\l02.cpp
+	"SDL2/SDL.h"
+
+1576595499 source:c:\users\user\documents\final project 2\l03.cpp
+	<stdio.h>
+	<SDL.h>
+
+1576597150 source:c:\users\user\documents\final project 2\l04.cpp
+	"SDL2/SDL.h"
+	<stdio.h>
+	<string>
+
+1575153285 source:c:\users\user\documents\final project 2\l05.cpp
+	"SDL2/SDL.h"
+	<stdio.h>
+	<string>
+
+1575154457 source:c:\users\user\documents\final project 2\l06.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<iostream>
+
+1576598663 source:c:\users\user\documents\final project 2\l07.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1576598943 source:c:\users\user\documents\final project 2\l08.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+	<cmath>
+
+1576599293 source:c:\users\user\documents\final project 2\l09.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1575904856 source:c:\users\user\documents\final project 2\l10.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1575904858 source:c:\users\user\documents\final project 2\l11.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1576599804 source:c:\users\user\documents\final project 2\l12.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1576600095 source:c:\users\user\documents\final project 2\l13.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1576654476 source:c:\users\user\documents\final project 2\l14.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1575904863 source:c:\users\user\documents\final project 2\l15.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+	<cmath>
+
+1575168793 source:c:\users\user\documents\final project 2\l16.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<iostream>
+
+1576421302 source:c:\users\user\documents\final project 2\l25.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<cstdio>
+	<string>
+	<sstream>
+
+1576421048 source:c:\users\user\documents\final project 2\l23.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<cstdio>
+	<string>
+	<sstream>
+
+1576421393 source:c:\users\user\documents\final project 2\l24.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<cstdio>
+	<string>
+	<sstream>
+
+1576656790 source:c:\users\user\documents\final project 2\l22.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1576421547 source:c:\users\user\documents\final project 2\l26.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1576595275 source:c:\users\user\documents\final project 2\l02.cpp
+	"SDL2/SDL.h"
+
+1575154457 source:c:\users\user\documents\final project 2\視窗大小可調整.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<iostream>
+
+1576676882 source:c:\users\user\documents\final project 2\30_scrolling.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<iostream>
+	<stdio.h>
+	<string>
+
+1576657420 source:c:\users\user\documents\final project 2\音配姓影像.cpp
+
+1577166161 source:c:\users\user\documents\final project 2\31_scrolling_backgrounds\31_scrolling_backgrounds.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<iostream>
+	<stdio.h>
+	<string>
+
+1576950566 source:c:\users\user\documents\final project 2\地圖虹景.cpp
+
+1576950769 source:c:\users\user\documents\final project 2\17_mouse_events\17_mouse_events.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	<string>
+
+1577185613 source:c:\users\user\documents\final project 2\計時.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<cstdio>
+	<string>
+	<sstream>
+
+1576599940 source:c:\users\user\documents\final project 2\色彩.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1576599646 source:c:\users\user\documents\final project 2\圖片分割.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1577346344 source:c:\users\user\documents\final project 2\球.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1577433167 source:c:\users\user\documents\final project 2\scrolling_backgrounds.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	<string>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+
+1577183743 source:c:\users\user\documents\final project 2\螢幕切割 動畫.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdio>
+	<string>
+
+1577186802 source:c:\users\user\documents\final project 2\png放已面.cpp
+
+1575168793 source:c:\users\user\downloads\sdl2_codeblocks_week01\l16.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<iostream>
+
+1575360817 source:c:\users\user\downloads\sdl2_codeblocks_week01\l06.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<iostream>
+
+1577507327 source:c:\users\user\documents\final project 2\暫時用全檔案===============.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+	<string>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+	<cmath>
+
+1577105191 source:c:\users\user\documents\final project 2\綑撞.cpp
+
+1577376414 source:c:\users\user\documents\final project 2\完全檔案綑撞測試===================.cpp
+
+1577435345 source:c:\users\user\documents\final project 2\目前卡畫面先這樣.cpp
+
+1577633548 source:c:\users\user\documents\final project\main.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+	<string>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+	<cmath>
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\close_code.h
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\documents\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870368 c:\users\user\documents\final project\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322281 c:\users\user\documents\final project\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1577435345 source:c:\users\user\documents\final project\目前卡畫面先這樣.cpp
+
+1577661064 source:c:\users\user\desktop\final project\main.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+	<string>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+	"LTexture.h"
+	"LTimer.h"
+	"LTexture.h"
+	"Ubike2_0.h"
+	"Player.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\close_code.h
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\final project\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870368 c:\users\user\desktop\final project\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322281 c:\users\user\desktop\final project\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1577660216 source:c:\users\user\desktop\final project\src\ltexture.cpp
+	"LTexture.h"
+	<SDL2/SDL_ttf.h>
+
+1577659110 c:\users\user\desktop\final project\include\ltexture.h
+	<string>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+
+1577662736 source:c:\users\user\desktop\final project\src\ltimer.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+	<string>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+	"LTexture.h"
+	"LTimer.h"
+
+1577660216 c:\users\user\desktop\final project\include\ltimer.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+	<string>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+	"LTexture.h"
+	"LTimer.h"
+
+1577662736 source:c:\users\user\desktop\final project\src\ubike2_0.cpp
+	"Ubike2_0.h"
+	"LTexture.h"
+
+1577660556 c:\users\user\desktop\final project\include\ubike2_0.h
+	"SDL2/SDL.h"
+
+1577661076 c:\users\user\desktop\final project\include\player.h
+	"SDL2/SDL.h"
+
+1577662736 source:c:\users\user\desktop\final project\src\player.cpp
+	"Player.h"
+	"LTexture.h"
+
+1577774737 source:c:\users\user\desktop\ubike2_0\src\ltexture.cpp
+	"LTexture.h"
+	<SDL2/SDL_ttf.h>
+
+1577774753 c:\users\user\desktop\ubike2_0\include\ltexture.h
+	<string>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\close_code.h
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870368 c:\users\user\desktop\ubike2_0\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322281 c:\users\user\desktop\ubike2_0\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1578148617 source:c:\users\user\desktop\ubike2_0\src\ltimer.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<sstream>
+	"LTimer.h"
+
+1577774554 c:\users\user\desktop\ubike2_0\include\ltimer.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+	<string>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+	"LTexture.h"
+	"LTimer.h"
+
+1577775028 source:c:\users\user\desktop\ubike2_0\src\player.cpp
+	"Player.h"
+	"LTexture.h"
+
+1577774854 c:\users\user\desktop\ubike2_0\include\player.h
+	"SDL2/SDL.h"
+
+1577774581 source:c:\users\user\desktop\ubike2_0\src\ubike2_0.cpp
+	"Ubike2_0.h"
+	"LTexture.h"
+
+1577774575 c:\users\user\desktop\ubike2_0\include\ubike2_0.h
+	"SDL2/SDL.h"
+
+1578161710 source:c:\users\user\desktop\ubike2_0\main.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<SDL2/SDL_ttf.h>
+	<cstdio>
+	<string>
+	<sstream>
+	"LTexture.h"
+	"LTimer.h"
+	"LTexture.h"
+	"Ubike2_0.h"
+	"Player.h"
+	"music.h"
+	"gamebutton.h"
+
+1577779610 source:c:\users\user\desktop\ubike2_0\main.rc
+
+1540997992 c:\users\user\desktop\ubike2_0\sdl2_mixer-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1577735758 source:c:\users\user\desktop\ubike2_0\src\gamebutton.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+	<SDL2/SDL_image.h>
+	<string>
+	"gamebutton.h"
+	"LTimer.h"
+
+1578008238 c:\users\user\desktop\ubike2_0\include\gamebutton.h
+	<SDL2/SDL.h>
+	<stdio.h>
+	<SDL2/SDL_image.h>
+	<string>
+	"LTexture.h"
+
+1578150073 source:c:\users\user\desktop\ubike2_0\src\music.cpp
+	"music.h"
+
+1578141655 c:\users\user\desktop\ubike2_0\include\music.h
+	<iostream>
+	<string>
+	"SDL2/SDL.h"
+	"SDL2/SDL_mixer.h"
+
+1578143597 source:c:\users\user\downloads\main.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<SDL2/SDL_ttf.h>
+	<cstdio>
+	<string>
+	<sstream>
+	"LTexture.h"
+	"LTimer.h"
+	"LTexture.h"
+	"Ubike2_0.h"
+	"Player.h"
+	"music.h"
+	"SDL2/SDL_mixer.h"
+
+1578161710 source:c:\users\user\desktop\ubike2_0 0105 0221\main.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<SDL2/SDL_ttf.h>
+	<cstdio>
+	<string>
+	<sstream>
+	"LTexture.h"
+	"LTimer.h"
+	"LTexture.h"
+	"Ubike2_0.h"
+	"Player.h"
+	"music.h"
+	"gamebutton.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\close_code.h
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 0105 0221\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870368 c:\users\user\desktop\ubike2_0 0105 0221\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322281 c:\users\user\desktop\ubike2_0 0105 0221\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1577774753 c:\users\user\desktop\ubike2_0 0105 0221\include\ltexture.h
+	<string>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+
+1577774554 c:\users\user\desktop\ubike2_0 0105 0221\include\ltimer.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+	<string>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+	"LTexture.h"
+	"LTimer.h"
+
+1577774575 c:\users\user\desktop\ubike2_0 0105 0221\include\ubike2_0.h
+	"SDL2/SDL.h"
+
+1577774854 c:\users\user\desktop\ubike2_0 0105 0221\include\player.h
+	"SDL2/SDL.h"
+
+1578141655 c:\users\user\desktop\ubike2_0 0105 0221\include\music.h
+	<iostream>
+	<string>
+	"SDL2/SDL.h"
+	"SDL2/SDL_mixer.h"
+
+1540997992 c:\users\user\desktop\ubike2_0 0105 0221\sdl2_mixer-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1578008238 c:\users\user\desktop\ubike2_0 0105 0221\include\gamebutton.h
+	<SDL2/SDL.h>
+	<stdio.h>
+	<SDL2/SDL_image.h>
+	<string>
+	"LTexture.h"
+
+1577779610 source:c:\users\user\desktop\ubike2_0 0105 0221\main.rc
+
+1577735758 source:c:\users\user\desktop\ubike2_0 0105 0221\src\gamebutton.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+	<SDL2/SDL_image.h>
+	<string>
+	"gamebutton.h"
+	"LTimer.h"
+
+1577774737 source:c:\users\user\desktop\ubike2_0 0105 0221\src\ltexture.cpp
+	"LTexture.h"
+	<SDL2/SDL_ttf.h>
+
+1578148617 source:c:\users\user\desktop\ubike2_0 0105 0221\src\ltimer.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<sstream>
+	"LTimer.h"
+
+1578150073 source:c:\users\user\desktop\ubike2_0 0105 0221\src\music.cpp
+	"music.h"
+
+1577775028 source:c:\users\user\desktop\ubike2_0 0105 0221\src\player.cpp
+	"Player.h"
+	"LTexture.h"
+
+1577774581 source:c:\users\user\desktop\ubike2_0 0105 0221\src\ubike2_0.cpp
+	"Ubike2_0.h"
+	"LTexture.h"
+
+1578840199 source:c:\users\user\desktop\ubike2_0 改\main.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<SDL2/SDL_ttf.h>
+	<cstdio>
+	<string>
+	<sstream>
+	"LTexture.h"
+	"LTimer.h"
+	"LTexture.h"
+	"Ubike2_0.h"
+	"Player.h"
+	"music.h"
+	"gamebutton.h"
+	<iostream>
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\close_code.h
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 c:\users\user\desktop\ubike2_0 改\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870368 c:\users\user\desktop\ubike2_0 改\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322281 c:\users\user\desktop\ubike2_0 改\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1578843435 c:\users\user\desktop\ubike2_0 改\include\ltexture.h
+	<string>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+	<ostream>
+
+1577774554 c:\users\user\desktop\ubike2_0 改\include\ltimer.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<cstdio>
+	<string>
+	<SDL2/SDL_ttf.h>
+	<sstream>
+	"LTexture.h"
+	"LTimer.h"
+
+1578843447 c:\users\user\desktop\ubike2_0 改\include\ubike2_0.h
+	"SDL2/SDL.h"
+	<string>
+
+1578640319 c:\users\user\desktop\ubike2_0 改\include\player.h
+
+1578662379 c:\users\user\desktop\ubike2_0 改\include\music.h
+	<iostream>
+	<string>
+	"SDL2/SDL.h"
+	"SDL2/SDL_mixer.h"
+
+1540997992 c:\users\user\desktop\ubike2_0 改\sdl2_mixer-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1578008238 c:\users\user\desktop\ubike2_0 改\include\gamebutton.h
+	<SDL2/SDL.h>
+	<stdio.h>
+	<SDL2/SDL_image.h>
+	<string>
+	"LTexture.h"
+
+1577779610 source:c:\users\user\desktop\ubike2_0 改\main.rc
+
+1577735758 source:c:\users\user\desktop\ubike2_0 改\src\gamebutton.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+	<SDL2/SDL_image.h>
+	<string>
+	"gamebutton.h"
+	"LTimer.h"
+
+1578845353 source:c:\users\user\desktop\ubike2_0 改\src\ltexture.cpp
+	"LTexture.h"
+	<SDL2/SDL_ttf.h>
+	<string>
+	<cstdio>
+	<iostream>
+
+1578839490 source:c:\users\user\desktop\ubike2_0 改\src\ltimer.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<sstream>
+	"LTimer.h"
+
+1578150073 source:c:\users\user\desktop\ubike2_0 改\src\music.cpp
+	"music.h"
+
+1578640081 source:c:\users\user\desktop\ubike2_0 改\src\player.cpp
+	"Ubike2_0.h"
+	"LTexture.h"
+
+1578672301 source:c:\users\user\desktop\ubike2_0 改\src\ubike2_0.cpp
+	"Ubike2_0.h"
+	"LTexture.h"
+
