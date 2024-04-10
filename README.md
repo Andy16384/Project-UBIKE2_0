@@ -1,3 +1,5 @@
+This is a game project using SDL2.
+
 C++ Programming Final Project(2019)
 
 Project Name:只要長得像腳踏車 即使是youbike2.0你也喜歡嗎
